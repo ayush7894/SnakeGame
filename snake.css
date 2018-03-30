@@ -1,0 +1,16 @@
+h1{
+	color: rgb(4,20,63);
+	text-align: center;
+	font-size:2.5vw;
+}
+h4{
+	color: rgb(181,25,157);
+	text-align: center;
+	text-decoration:underline;
+	font-size:1.8vw;
+
+}
+body{
+	background:url(snake1.jpg);
+	background-size: cover;
+}
